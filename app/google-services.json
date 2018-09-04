@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "790554055093",
+    "firebase_url": "https://helloiot-de544.firebaseio.com",
+    "project_id": "helloiot-de544",
+    "storage_bucket": "helloiot-de544.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790554055093:android:528665e27cb3aaa6",
+        "android_client_info": {
+          "package_name": "com.teotonio.everton.br.temperature"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790554055093-8tlmfmbr6ch4t3jthsacj4ij0kl18b9b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.teotonio.everton.br.temperature",
+            "certificate_hash": "beb224284730e1ec2ea6857c4e52af0c0438cd6c"
+          }
+        },
+        {
+          "client_id": "790554055093-ro9pvgj242rmh5f8mosh73ie1ho5dlde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQSTsFKrbFV93M6wN2458kPE8rHOPV0Ao"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790554055093-ro9pvgj242rmh5f8mosh73ie1ho5dlde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
